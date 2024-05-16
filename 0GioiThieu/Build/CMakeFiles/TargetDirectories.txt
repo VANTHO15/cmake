@@ -1,0 +1,3 @@
+D:/CMake/Code_Ytb/0GioiThieu/Build/CMakeFiles/main.dir
+D:/CMake/Code_Ytb/0GioiThieu/Build/CMakeFiles/edit_cache.dir
+D:/CMake/Code_Ytb/0GioiThieu/Build/CMakeFiles/rebuild_cache.dir
